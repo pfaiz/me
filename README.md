@@ -1,3 +1,5 @@
+# Pierre Faiz
+# pierreafaiz@lewisu.edu
 # Getting to Know Each Other
 # Credits
 Credit ChatGPT
